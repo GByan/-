@@ -1,0 +1,21 @@
+.unshow {
+  display: none;
+}
+.on {
+  color: red;
+}
+#cat_list li img {
+  width: 200px;
+}
+#cat_name {
+  font-size: 14px;
+}
+#choose_List {
+  width: 200px;
+}
+#choose_List li {
+  text-align: center;
+  width: 100%;
+  font-size: 14px;
+  border: 1px solid #333;
+}
